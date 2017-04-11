@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="action_settings">settings</string>
+    <string name="falcons_team">Falcons</string>
+    <string name="patriots_team">Patriots</string>
+    <string name="six_points">+6 Touch Down</string>
+    <string name="three_points">+3 Field Goal</string>
+    <string name="two_points">+2 safety</string>
+    <string name="one_points">+1 Extra Point</string>
+    <string name="reset_button">Reset</string>
+</resources>
